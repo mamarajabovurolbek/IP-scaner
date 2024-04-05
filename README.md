@@ -5,6 +5,9 @@ Dastur kodi ishga tushuriladi
 ########################
 Dasturga IP kiritilib IP ma'umot tugmasi bosilsa dastur IP haqida ma'lumotlarni chiqaradi
 Copy tugmasini bosish orqali esa chiqarilgan natijani nusxalash imkoniyati mavjud
+
+
+
 ########################
 
 IP kiritiligandan so'ng check port tugmasi bosilsa 
